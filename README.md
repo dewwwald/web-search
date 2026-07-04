@@ -1,7 +1,3 @@
-### ⚠️ Project Mirror
-This repository is a mirror of the original project at [nub235/web-search](https://lmstudio.ai/nub235/web-search), which is no longer available.
-
-
 # web-search
 
 An LM Studio plugin that gives your local models the ability to search the web and read web pages. Built for agentic, iterative research — not just one search and done.
